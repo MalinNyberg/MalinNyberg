@@ -17,10 +17,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-  <div align="center">
-  <img src="https://media.giphy.com/media/UZQCbV4OW1mXdHJNPS/giphy.gif" width="400" height="200"/>
-</div>
-
 ---
 
 ### :woman_technologist: About Me :
@@ -33,6 +29,12 @@
  :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/malin-nyberg-0bb35313a/)
 
  ---
+
+  <div align="center">
+  <img src="https://media.giphy.com/media/UZQCbV4OW1mXdHJNPS/giphy.gif" width="400" height="200"/>
+</div>
+
+---
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MalinNyberg&theme=dark&background=000000)](https://git.io/streak-stats)
