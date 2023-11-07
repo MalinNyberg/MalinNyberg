@@ -1,4 +1,15 @@
-### Hi there 👋
+<div id="header" align="center">
+ <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="200"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/malin-nyberg-0bb35313a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+  <div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=MalinNyberg&style=flat-square&color=blue" alt=""/>
+  <div></div>
 
 <!--
 **MalinNyberg/MalinNyberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
