@@ -24,7 +24,7 @@
 
   :zap: In my free time, I code as much as I can, play soccer and hang out with friends and family.
 
- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/malin-nyberg-0bb35313a/)
+ :mailbox_with_mail: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/malin-nyberg-0bb35313a/)
 
  ---
 
