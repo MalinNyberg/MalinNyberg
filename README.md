@@ -24,7 +24,7 @@
 
   :zap: In my free time, I code as much as I can, play soccer and hang out with friends and family.
 
- :mailbox_with_mail: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/malin-nyberg-0bb35313a/)
+ 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/malin-nyberg-0bb35313a/)
 
  ---
 
@@ -34,7 +34,7 @@
 
 ---
 
-### :fire: My Stats :
+### 🔥: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MalinNyberg&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalinNyberg&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
