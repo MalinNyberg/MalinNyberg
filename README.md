@@ -19,10 +19,10 @@
 
 ---
 
-### :woman_technologist: About Me :
- :telescope: I study Fullstack Development .NET at Chas Academy. I am currently at my first year.
+### 👩‍💻 About Me :
+ 🔭 I study Fullstack Development .NET at Chas Academy. I am currently at my first year.
 
-  :zap: In my free time, I code as much as I can, play soccer and hang out with friends and family.
+  ⚡ In my free time, I code as much as I can, play soccer and hang out with friends and family.
 
  📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/malin-nyberg-0bb35313a/)
 
